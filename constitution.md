@@ -40,3 +40,4 @@
 - Use environment variables for configuration
 - Implement proper logging from the start
 - Follow language-specific style guides (PEP 8 for Python, ESLint for TypeScript)
+- updaedafter the fact
